@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LeaveIt</title>
-    <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/</link>
+    <link>https://sigam-zq.github.io/gaiziResume/tags/</link>
     <description>Recent content in Tags on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
-    <lastBuildDate>Thu, 20 Jan 2022 15:47:31 +0800</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 15:47:31 +0800</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chitchat</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/chitchat/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/chitchat/</link>
       <pubDate>Thu, 20 Jan 2022 15:47:31 +0800</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/chitchat/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/chitchat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/hugo/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/hugo/</link>
       <pubDate>Thu, 20 Jan 2022 15:47:31 +0800</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/hugo/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/theme/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/theme/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/development/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/development/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/development/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/go/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/go/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/go/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/golang/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/golang/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/golang/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/templates/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/templates/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/templates/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/tags/themes/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/tags/themes/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/tags/themes/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/tags/themes/</guid>
       <description></description>
     </item>
     

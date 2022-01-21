@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LeaveIt on LeaveIt</title>
-    <link>https://sigam-zq.github.io/gaiziResume.github.io/</link>
+    <link>https://sigam-zq.github.io/gaiziResume/</link>
     <description>Recent content in LeaveIt on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
     <lastBuildDate>Thu, 20 Jan 2022 16:26:06 +0800</lastBuildDate>
-    <atom:link href="/gaiziResume.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/gaiziResume/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/posts/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/posts/</link>
       <pubDate>Thu, 20 Jan 2022 16:26:06 +0800</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/posts/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/about/</link>
+      <link>https://sigam-zq.github.io/gaiziResume/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/about/</guid>
+      <guid>https://sigam-zq.github.io/gaiziResume/about/</guid>
       <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
 &lt;ul&gt;
