@@ -6,7 +6,16 @@
     <description>Recent content in Categories on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
-    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 15:47:31 +0800</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncategorized</title>
+      <link>https://sigam-zq.github.io/gaiziResume.github.io/categories/uncategorized/</link>
+      <pubDate>Thu, 20 Jan 2022 15:47:31 +0800</pubDate>
+      
+      <guid>https://sigam-zq.github.io/gaiziResume.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Releases</title>
       <link>https://sigam-zq.github.io/gaiziResume.github.io/categories/releases/</link>
@@ -22,15 +31,6 @@
       <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
       
       <guid>https://sigam-zq.github.io/gaiziResume.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncategorized</title>
-      <link>https://sigam-zq.github.io/gaiziResume.github.io/categories/uncategorized/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sigam-zq.github.io/gaiziResume.github.io/categories/uncategorized/</guid>
       <description></description>
     </item>
     

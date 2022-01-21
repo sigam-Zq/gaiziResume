@@ -6,7 +6,28 @@
     <description>Recent content in Posts on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
-    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 16:26:06 +0800</lastBuildDate><atom:link href="https://sigam-zq.github.io/gaiziResume.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://sigam-zq.github.io/gaiziResume.github.io/2022/resume/</link>
+      <pubDate>Thu, 20 Jan 2022 16:26:06 +0800</pubDate>
+      
+      <guid>https://sigam-zq.github.io/gaiziResume.github.io/2022/resume/</guid>
+      <description>base Info 基础信息
+           姓名： zhengQiang 学校： 山东第一医科大学   微信： zheng_Q__ 专业： 信息管理与信息系统   手机号： 183-6370-**** 学历： 本科   地址： 山东省滕州市 职位： 技术开发   出生年月： 97年12月 邮箱： 1024088055@qq.com    个人经历   16年6月 ~ 20年6月 山东第一医科大学 信息管理与信息系统
+  20年7月 ~ 至今 电商部门 技术开发
+  技术栈  基本语言:java Go python JS HTML CSS (Linux/win)-shell 基本框架:  java&amp;raquo;spring 系列( Spring MVC,Spring Boot,Spring JPA ,Spring Schedule) MyBatis MyBatis-Plus Go&amp;raquo;gin gorm 前端&amp;raquo;Vue 系列(Vue router,Vuex) axios webpack UI框架(elementUi,IView)   其他:MySQL Redis RabbitMQ node Linux ELK  项目经历   微服务ERP中台项目(部分负责) 在自研的微服务架构电商业务场景下的ERP中负责后端部分租户业务和平台业务的接入,前端页面的新功能改动,及页面调整 涉及-：MybatisPlus XxlJob RabbitMq Spring SpringCloud Oracle Logstash IView Vue Axios scss</description>
+    </item>
+    
+    <item>
+      <title>Frist</title>
+      <link>https://sigam-zq.github.io/gaiziResume.github.io/2022/frist/</link>
+      <pubDate>Thu, 20 Jan 2022 15:47:31 +0800</pubDate>
+      
+      <guid>https://sigam-zq.github.io/gaiziResume.github.io/2022/frist/</guid>
+      <description>新开始 welcome ,配置之后我这算是有自己的一个新的blog了这是</description>
+    </item>
+    
     <item>
       <title>Creating a New Theme</title>
       <link>https://sigam-zq.github.io/gaiziResume.github.io/2014/creating-a-new-theme/</link>
